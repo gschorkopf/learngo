@@ -30,4 +30,6 @@ import (
 func main() {
 	fmt.Println("Geoff")
 	fmt.Println("Jenna")
+
+	fmt.Println("Geoff", "Jenna")
 }
